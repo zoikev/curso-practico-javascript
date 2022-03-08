@@ -1,4 +1,4 @@
-# platzi-curso-practico-javascript
+# curso-practico-javascript
 Proyecto para el Curso Práctico de JavaScript de Platzi
 
 ## Link en Pages
